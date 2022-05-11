@@ -1,0 +1,189 @@
+ABTH,velvetleaf,Abutilon theophrasti,Malvaceae,ML,LI,H,ML,HL,
+ACGI,Amur maple,Acer ginnala,Aceraceae,MI,MI,L,ML,U,
+ACPL,Norway maple,Acer platanoides,Aceraceae,HM,M,HM,HM,ML,
+AIAL,tree of heaven,Ailanthus altissima,Simaroubaceae,M,ML,H,ML,ML,
+ALGL2,European alder,Alnus glutinosa,Betulaceae,HM,H,HM,HL,U,
+ALJU,silktree,Albizia julibrissin,Fabaceae,ML,ML,H,ML,ML,
+ALPE4,garlic mustard,Alliaria petiolata,Brassicaceae,HM,ML,H,HM,M,
+ALPH,alligatorweed,Alternanthera philoxeroides,Amaranthaceae,M,HM,L,ML,M,
+ALSE4,sessile joyweed,Alternanthera sessilis,Amaranthaceae,LI,LI,L,HL,MI,
+AMBR7,Amur peppervine,Ampelopsis brevipedunculata,Vitaceae,ML,ML,M,HL,HM,
+ARDO4,giant reed,Arundo donax,Poaceae,H,H,HM,HM,L,
+ARHI3,small carpgrass,Arthraxon hispidus,Poaceae,ML,ML,M,HL,MI,
+ARMI2,lesser burdock,Arctium minus,Asteraceae,MI,LI,M,HL,MI,
+BAHA,eastern baccharis,Baccharis halimifolia,Asteraceae,,,,,,No I-Rank available as of 1/7/2020
+BASC5,burningbush, Mexican fireweed,Bassia scoparia,Chenopodiaceae,L,LI,M,ML,HM,
+BEIN2,hoary alyssum,Berteroa incana,Brassicaceae,LI,I,M,ML,LI,
+BETH,Japanese barberry,Berberis thunbergii,Berberidaceae,HM,HM,H,ML,I,
+BOBL,Caucasian bluestem, Australian bluestem,Bothriochloa bladhii,Poaceae,,,,,,No I-Rank available as of 1/7/2020
+BOIS,yellow bluestem, King Ranch bluestem,Bothriochloa ischaemum,Poaceae,,,,,,No I-Rank available as of 1/7/2020
+BRAR5,field brome,Bromus arvensis,Poaceae,,,,,,No I-Rank available as of 1/7/2020
+BRIN2,smooth brome,Bromus inermis,Poaceae,M,M,H,ML,ML,
+BROM-H,annual brome sp. (NOT B. inermis),Bromus,Poaceae,M,M,HM,ML,ML,Genus I-Rank average of available species I-Ranks
+BRRA2,bald brome, spiked brome,Bromus racemosus,Poaceae,,,,,,No I-Rank available as of 1/7/2020
+BRST2,poverty brome,Bromus sterilis,Poaceae,ML,ML,M,U,U,
+BRTE,cheatgrass,Bromus tectorum,Poaceae,H,H,HM,M,HM,
+BUUM,flowering rush,Butomus umbellatus,Butomaceae,ML,L,M,HM,LI,
+CAAC,spiny plumeless thistle,Carduus acanthoides,Asteraceae,ML,MI,M,HM,,
+CAAR18,Siberian peashrub,Caragana arborescens,Fabaceae,HL,HL,ML,ML,U,
+CADR,whitetop,Cardaria draba,Brassicaceae,,,,,,No I-Rank available as of 1/7/2020
+CANU4,nodding plumeless thistle,Carduus nutans,Asteraceae,HL,MI,HM,HM,HM,
+CASE13,hedge false bindweed,Calystegia sepium,Convolvulaceae,,,,,,No I-Rank available as of 1/7/2020
+CELTI,hackberry sp.,Celtis,Ulmaceae,,,,,,No I-Rank available as of 1/7/2020
+CEOR7,Oriental bittersweet,Celastrus orbiculatus,Celastraceae,HM,ML,H,HL,M,
+CESO3,yellow star-thistle,Centaurea solstitialis,Asteraceae,HM,HM,H,HM,HM,
+CESTM,spotted knapweed,Centaurea stoebe ssp. micranthos,Asteraceae,HM,M,H,HM,HL,
+CHAL7,lambsquarters,Chenopodium album,Chenopodiaceae,,,,,,No I-Rank available as of 1/7/2020
+CIAR4,Canada thistle,Cirsium arvense,Asteraceae,HM,ML,H,ML,HM,
+CIRSI,thistle sp.,Cirsium,Asteraceae,M,ML,H,ML,M,Genus I-Rank average of available species I-Ranks
+CIVU,bull thistle,Cirsium vulgare,Asteraceae,ML,ML,HM,ML,ML,
+CLTE4,sweet autumn virginsbower,Clematis terniflora,Ranunculaceae,,,,,,No I-Rank available as of 1/7/2020
+COFO,stiff dogwood,Cornus foemina,Cornaceae,,,,,,No I-Rank available as of 1/7/2020
+COMA2,poison hemlock,Conium maculatum,Apiaceae,ML,L,HM,ML,LI,
+CYDA,Bermudagrass,Cynodon dactylon,Poaceae,ML,ML,M,ML,HM,
+CYLO11,Louise's swallow-wort,Cynanchum louiseae,Asclepiadaceae,H,HM,H,M,H,
+CYOF,gypsyflower,Cynoglossum officinale,Boraginaceae,ML,LI,H,ML,ML,
+CYRO8,European swallow-wort,Cynanchum rossicum,Asclepiadaceae,HM,HM,ML,M,HL,
+DACA6,Queen Anne's lace,Daucus carota,Apiaceae,L,I,H,L,I,
+DAST,jimsonweed,Datura stramonium,Solanaceae,HL,ML,HM,U,U,
+DIFU2,Fuller's teasel,Dipsacus fullonum,Dipsacaceae,ML,L,HM,HM,ML,
+DILA3,Grecian foxglove,Digitalis lanata,Scrophulariaceae,,,,,,No I-Rank available as of 1/7/2020
+DILA4,cutleaf teasel,Dipsacus laciniatus,Dipsacaceae,ML,L,M,HM,ML,
+DIOP,Chinese yam,Dioscorea oppositifolia,Dioscoreaceae,HL,ML,HM,U,MI,
+ECCR,barnyardgrass,Echinochloa crus-galli,Poaceae,MI,LI,M,HL,U,
+EGDE,Brazilian waterweed,Egeria densa,Hydrocharitaceae,HM,HM,H,HL,HM,
+EICR,common water hyacinth,Eichhornia crassipes,Pontederiaceae,H,HM,H,HM,H,
+ELAEA,elaeagnus sp.,Elaeagnus,Elaeagnaceae,H,H,H,HM,H,
+ELAE-H,Russian/autumn olive complex,Elaeagnus umbellata/angustifolia,Elaeagnaceae,H,M,H,M,H,Species-group I-Rank average of species I-Ranks
+ELAN,Russian olive,Elaeagnus angustifolia,Elaeagnaceae,H,HM,H,HM,H,
+ELPU2,thorny olive,Elaeagnus pungens,Elaeagnaceae,LI,LI,L,HL,HL,
+ELRE4,quackgrass,Elymus repens,Poaceae,HM,ML,H,ML,HM,
+ELUM,autumn olive,Elaeagnus umbellata,Elaeagnaceae,H,H,H,HM,L,
+ERCU2,weeping lovegrass,Eragrostis curvula,Poaceae,ML,ML,M,ML,HL,
+EUAL13,burningbush, winged euonymus,Euonymus alatus,Celastraceae,MI,LI,M,HL,L,
+EUAT5,burningbush,Euonymus atropurpureus,Celastraceae,,,,,,No I-Rank available as of 1/7/2020
+EUCY2,cypress spurge,Euphorbia cyparissias,Euphorbiaceae,ML,ML,ML,HL,HM,
+EUES,leafy spurge,Euphorbia esula,Euphorbiaceae,HM,M,H,HL,H,
+EUFO5,winter creeper,Euonymus fortunei,Celastraceae,M,M,H,ML,LI,
+FRAL4,glossy buckthorn,Frangula alnus,Rhamnaceae,HM,HL,H,M,M,
+GLHE2,ground ivy,Glechoma hederacea,Lamiaceae,MI,MI,M,MI,U,
+HEFU,orange daylily,Hemerocallis fulva,Liliaceae,ML,MI,M,HL,L,
+HEHE,English ivy,Hedera helix,Araliaceae,HM,M,H,HM,ML,
+HEMA3,dames rocket,Hesperis matronalis,Brassicaceae,ML,MI,HM,ML,HL,
+HIAU,orange hawkweed,Hieracium aurantiacum,Asteraceae,ML,ML,M,HM,ML,
+HOLA,common velvetgrass,Holcus lanatus,Poaceae,HM,HM,HM,HL,HL,
+HUJA,Japanese hop,Humulus japonicus,Cannabaceae,ML,ML,M,M,ML,
+HYPE,common St. Johnswort,Hypericum perforatum,Clusiaceae,HM,ML,H,HM,M,
+HYVE3,waterthyme,Hydrilla verticillata,Hydrocharitaceae,HM,HM,M,H,H,
+IMCY,cogongrass,Imperata cylindrica,Poaceae,H,H,M,ML,H,
+IRPS,paleyellow iris,Iris pseudacorus,Iridaceae,HM,ML,H,M,HM,
+JUVI,eastern redcedar,Juniperus virginiana,Cupressaceae,,,,,,No I-Rank available as of 1/7/2020
+LEBI2,shrub lespedeza,Lespedeza bicolor,Fabaceae,M,ML,M,HM,HM,
+LECA2,common motherwort,Leonurus cardiaca,Lamiaceae,,,,,,No I-Rank available as of 1/7/2020
+LECU,sericea lespedeza,Lespedeza cuneata,Fabaceae,M,ML,H,M,ML,
+LELA2,broadleaved pepperweed,Lepidium latifolium,Brassicaceae,H,H,M,HM,HM,
+LEVU,oxeye daisy,Leucanthemum vulgare,Asteraceae,ML,LI,H,ML,HM,
+LIDA,Dalmatian toadflax,Linaria dalmatica,Scrophulariaceae,,,,,,No I-Rank available as of 1/7/2020
+LIGUS2,privet sp.,Ligustrum,Oleaceae,M,M,HM,HM,HL,Genus I-Rank average of available species I-Ranks
+LIJA,Japanese privet,Ligustrum japonicum,Oleaceae,ML,ML,ML,HL,HL,
+LILU2,glossy privet,Ligustrum lucidum,Oleaceae,ML,ML,L,HM,HL,
+LIOB,border privet,Ligustrum obtusifolium,Oleaceae,ML,LI,H,ML,L,
+LISI,Chinese privet,Ligustrum sinense,Oleaceae,HM,M,H,HL,L,
+LIVU,European privet,Ligustrum vulgare,Oleaceae,HM,HL,HM,HM,HM,
+LIVU2,butter and eggs,Linaria vulgaris,Scrophulariaceae,HL,ML,HM,ML,HM,
+LOBE,showy fly honeysuckle,Lonicera xbella,Caprifoliaceae,HM,HM,H,HM,HM,
+LOCO6,bird's-foot trefoil,Lotus corniculatus,Fabaceae,ML,ML,HM,ML,ML,
+LOJA,Japanese honeysuckle,Lonicera japonica,Caprifoliaceae,HM,M,H,HM,HM,
+LOLIU,ryegrass sp.,Lolium,Poaceae,M,M,HM,ML,MI,Genus I-Rank average of available species I-Ranks
+LOMA6,Amur honeysuckle,Lonicera maackii,Caprifoliaceae,H,HM,H,H,M,
+LOMO2,Morrow's honeysuckle,Lonicera morrowii,Caprifoliaceae,HM,ML,H,HM,M,
+LONIC,honeysuckle sp.,Lonicera,Caprifoliaceae,HM,HM,H,HM,HM,Genus I-Rank average of available species I-Ranks
+LONI-H,bush honeysuckle sp. (Amur-Morrow's-Tatarian complex),Lonicera shrub (maackii/morrowii/tatarica),Caprifoliaceae,HM,M,H,HM,M,Species-group I-Rank average of species I-Ranks
+LOPE,perennial ryegrass,Lolium perenne,Poaceae,M,M,HM,ML,MI,
+LOTA,Tatarian honeysuckle,Lonicera tatarica,Caprifoliaceae,HM,M,H,HM,M,
+LOTE4,narrow-leaf bird's-foot trefoil,Lotus tenuis,Fabaceae,,,,,,No I-Rank available as of 1/7/2020
+LYJA,Japanese climbing fern,Lygodium japonicum,Lygodiaceae,HM,HM,M,HM,M,
+LYNU,creeping jenny,Lysimachia nummularia,Primulaceae,ML,L,H,ML,L,
+LYSA2,purple loosestrife,Lythrum salicaria,Lythraceae,H,H,H,H,H,
+MAPO,osage orange,Maclura pomifera,Moraceae,L,ML,H,ML,L,
+MEAZ,Chinaberrytree,Melia azedarach,Meliaceae,ML,ML,HM,ML,ML,
+MEOF,yellow sweetclover,Melilotus officinalis,Fabaceae,ML,M,HM,ML,M,
+MISA,Amur silvergrass,Miscanthus sacchariflorus,Poaceae,,,,,,No I-Rank available as of 1/7/2020
+MISI,Chinese silvergrass,Miscanthus sinensis,Poaceae,HL,ML,H,HL,HL,
+MIVI,Nepalese browntop, Japanese stiltgrass,Microstegium vimineum,Poaceae,HM,M,HM,ML,HM,
+MOAL,white mulberry,Morus alba,Moraceae,HM,ML,H,HM,ML,
+MUKE,wartremoving herb,Murdannia keisak,Commelinaceae,ML,M,LI,M,U,
+MYAQ2,parrot feather watermilfoil,Myriophyllum aquaticum,Haloragaceae,HM,M,HL,ML,H,
+MYSC,true forget-me-not,Myosotis scorpioides,Boraginaceae,,,,,,No I-Rank available as of 1/7/2020
+MYSP2,Eurasian watermilfoil,Myriophyllum spicatum,Haloragaceae,H,H,H,H,H,
+NADO,sacred bamboo,Nandina domestica,Berberidaceae,HL,HM,MI,M,U,
+NAMI,brittle waternymph,Najas minor,Najadaceae,HM,M,HL,M,HM,
+NAOF,watercress,Nasturtium officinale,Brassicaceae,ML,ML,HM,ML,MI,
+ONAC,Scotch cottonthistle,Onopordum acanthium,Asteraceae,,,,,,No I-Rank available as of 1/7/2020
+ORUM,sleepydick,Ornithogalum umbellatum,Liliaceae,ML,MI,M,HM,L,
+PASA2,wild parsnip,Pastinaca sativa,Apiaceae,LI,LI,M,L,L,
+PATO2,princesstree,Paulownia tomentosa,Scrophulariaceae,ML,ML,HM,ML,L,
+PHAR3,reed canarygrass,Phalaris arundinacea,Poaceae,H,H,H,M,HM,
+PHAU7,common reed,Phragmites australis,Poaceae,H,H,H,H,HM,
+PHSE17,Taiwanese photinia,Photinia serratifolia,Rosaceae,,,,,,No I-Rank available as of 1/7/2020
+PHYLL6,bamboo,Phyllostachys,Poaceae,,,,,,No I-Rank available as of 1/7/2020
+POA,bluegrass sp.,Poa,Poaceae,M,M,H,M,M,Genus I-Rank average of available species I-Ranks
+POA-H,Canada/Kentucky bluegrass complex,Poa compressa/pratensis,Poaceae,M,M,H,M,M,Species-group I-Rank average of species I-Ranks
+POAL7,white poplar,Populus alba,Salicaceae,HL,ML,HM,ML,HL,
+POCO,Canada bluegrass,Poa compressa,Poaceae,HL,ML,HM,HL,HL,
+POCR3,curly pondweed,Potamogeton crispus,Potamogetonaceae,M,M,H,ML,ML,
+POCU6,Japanese knotweed,Polygonum cuspidatum,Polygonaceae,HM,HM,H,HL,M,
+POLYG4,knotweed sp.,Polygonum,Polygonaceae,HM,HM,H,HM,M,Genus I-Rank average of available species I-Ranks
+POPE10,Asiatic tearthumb,Polygonum perfoliatum,Polygonaceae,M,ML,M,HM,L,
+POPR,Kentucky bluegrass,Poa pratensis,Poaceae,M,M,H,ML,ML,
+PORE5,sulphur cinquefoil,Potentilla recta,Rosaceae,HM,HL,H,HM,ML,
+POSA4,giant knotweed,Polygonum sachalinense,Polygonaceae,HM,HM,HM,U,U,
+POTR4,hardy orange, trifoliate orange,Poncirus trifoliata,Rutaceae,,,,,,No I-Rank available as of 1/7/2020
+POTR5,quaking aspen,Populus tremuloides,Salicaceae,,,,,,No I-Rank available as of 1/7/2020
+PRLA5,cherry laurel,Prunus laurocerasus,Rosaceae,,,,,,No I-Rank available as of 1/7/2020
+PRMA,Mahaleb cherry,Prunus mahaleb,Rosaceae,MI,LI,ML,ML,U,
+PUMO,kudzu,Pueraria montana,Fabaceae,M,M,H,M,M/L,
+PYCA80,Callery pear,Pyrus calleryana,Rosaceae,MI,LI,ML,HL,ML,
+RHCA3,common buckthorn,Rhamnus cathartica,Rhamnaceae,HM,M,H,HL,M,
+RHCO,winged sumac,Rhus copallinum,Anacardiaceae,,,,,,No I-Rank available as of 1/7/2020
+RHDA,Dahurian buckthorn,Rhamnus davurica,Rhamnaceae,,,,,,No I-Rank available as of 1/7/2020
+RHGL,smooth sumac,Rhus glabra,Anacardiaceae,,,,,,No I-Rank available as of 1/7/2020
+ROMU,multiflora rose,Rosa multiflora,Rosaceae,ML,L,H,ML,L,
+ROPS,black locust,Robinia pseudoacacia,Fabaceae,HM,HM,H,ML,M,
+RUAC3,common sheep sorrel,Rumex acetosella,Polygonaceae,ML,LI,H,M,H,
+RUCR,curly dock,Rumex crispus,Polygonaceae,LI,LI,M,L,ML,
+SAMO5,kariba-weed,Salvinia molesta,Salviniaceae,M,M,M,H,U,
+SAOF4,bouncingbet,Saponaria officinalis,Caryophyllaceae,LI,I,H,U,U,
+SCAR7,tall fescue,Schedonorus arundinaceus,Poaceae,HM,M,H,M,HM,
+SCHED2,fescue sp.,Schedonorus,Poaceae,HM,M,H,M,HM,Genus I-Rank average of available species I-Ranks
+SCPR4,meadow fescue,Schedonorus pratensis,Poaceae,HL,ML,HM,ML,HL,
+SEHE8,bigpod sesbania,Sesbania herbacea,Fabaceae,,,,,,No I-Rank available as of 1/7/2020
+SEVA4,crownvetch,Securigera varia,Fabaceae,H,H,H,MI,L,
+SOAR2,field sowthistle,Sonchus arvensis,Asteraceae,ML,LI,H,ML,HL,
+SOHA,Johnsongrass,Sorghum halepense,Poaceae,HM,ML,H,ML,HM,
+SORO,buffalobur nightshade,Solanum rostratum,Solanaceae,,,,,,No I-Rank available as of 1/7/2020
+SOVI2,tropical soda apple,Solanum viarum,Solanaceae,ML,L,ML,HM,ML,
+SPIRA,spirea sp.,Spiraea,Rosaceae,HM,ML,HM,HM,HM,Genus I-Rank average of available species I-Ranks
+SPJA,Japanese meadowsweet, Japanese spirea,Spiraea japonica,Rosaceae,HM,ML,HM,HM,HM,
+SPZE,chickenspike,Sphenoclea zeylanica,Sphenocleaceae,,,,,,No I-Rank available as of 1/7/2020
+TARA,saltcedar,Tamarix ramosissima,Tamaricaceae,H,H,H,HL,HM,
+TAVU,common tansy,Tanacetum vulgare,Asteraceae,L,I,M,L,M,
+TOAR,spreading hedgeparsley,Torilis arvensis,Apiaceae,,,,,,No I-Rank available as of 1/7/2020
+TOJA,erect hedgeparsley,Torilis japonica,Apiaceae,,,,,,No I-Rank available as of 1/7/2020
+TORIL,hedgeparsley,Torilis spp,Apaiaceae,,,,,,No I-Rank available as of 1/7/2020
+TRHY,alsike clover,Trifolium hybridum,Fabaceae,ML,ML,M,ML,ML,
+TRPR2,red clover,Trifolium pratense,Fabaceae,LI,LI,HM,L,I,
+TRSE6,Chinese tallow,Triadica sebifera,Euphorbiaceae,H,H,M,HM,HM,
+TYAN,narrowleaf cattail,Typha angustifolia,Typhaceae,HM,HM,H,ML,M,
+TYGL,hybrid cattail,Typha xglauca,Typhaceae,,,,,,No I-Rank available as of 1/7/2020
+TYPHA,cattail sp.,Typha,Typhaceae,HM,HM,H,ML,M,Genus I-Rank average of available species I-Ranks
+ULPU,Siberian elm,Ulmus pumila,Ulmaceae,ML,ML,HM,ML,ML,
+VETH,common mullein,Verbascum thapsus,Scrophulariaceae,M,ML,H,M,L,
+VIAE,summer grape,Vitis aestivalis,Vitaceae,,,,,,No I-Rank available as of 1/7/2020
+VICR,bird vetch,Vicia cracca,Fabaceae,,,,,,No I-Rank available as of 1/7/2020
+VIMA,bigleaf periwinkle,Vinca major,Apocynaceae,M,ML,H,ML,M,
+VIMI2,common periwinkle,Vinca minor,Apocynaceae,L,I,H,HL,U,
+VIOP,European cranberrybush,Viburnum opulus,Caprifoliaceae,,,,,,No I-Rank available as of 1/7/2020
+VIVI,winter vetch,Vicia villosa,Fabaceae,,,,,,No I-Rank available as of 1/7/2020
+WIFL,Japanese wisteria,Wisteria floribunda,Fabaceae,M,ML,H,ML,L,
+WISI,Chinese wisteria,Wisteria sinensis,Fabaceae,M,ML,H,HL,L,
